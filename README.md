@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" type="text/css" href="/style.css">
 <div class="conteiner_image" id="sobre"> 
     <div class="h1">
     <h1>Olá, meu nome é Lisandro. Estou estudando para me tornar um desenvolvedor. Tenho 19 anos e sou natural de Videira.</h1>
